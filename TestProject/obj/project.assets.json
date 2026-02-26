@@ -377,6 +377,15 @@
             "related": ".xml"
           }
         }
+      },
+      "Lab6DoubleLinkLists/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lab6DoubleLinkLists.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab6DoubleLinkLists.dll": {}
+        }
       }
     }
   },
@@ -970,10 +979,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Lab6DoubleLinkLists/1.0.0": {
+      "type": "project",
+      "path": "../Lab6DoubleLinkLists/Lab6DoubleLinkLists.csproj",
+      "msbuildProject": "../Lab6DoubleLinkLists/Lab6DoubleLinkLists.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Lab6DoubleLinkLists >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -1012,7 +1027,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj": {
+              "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

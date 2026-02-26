@@ -4,6 +4,22 @@
     "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
+    "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj",
+        "projectName": "Lab6DoubleLinkLists",
+        "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +47,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj": {
+                "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

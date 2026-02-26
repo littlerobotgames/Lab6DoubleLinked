@@ -3,14 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51A9031B-9AD8-48A9-9F3D-AF6A2E2561DC}|..\\TestProject\\TestProject.csproj|c:\\users\\alex\\onedrive\\documents\\college cringe\\programming\\lab5doublelinked\\testproject\\linkedliststartingemptytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C8328D1-CEF1-4413-99DA-F15AA4DF03E7}|..\\LinkedLists\\LinkedLists.csproj|c:\\users\\alex\\onedrive\\documents\\college cringe\\programming\\lab5doublelinked\\linkedlists\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A9031B-9AD8-48A9-9F3D-AF6A2E2561DC}|..\\TestProject\\TestProject.csproj|c:\\users\\alex\\onedrive\\documents\\college cringe\\programming\\lab5doublelinked\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8652EDED-0616-43C7-BCA2-C56A100C24E9}|Lab6DoubleLinkLists.csproj|c:\\users\\alex\\onedrive\\documents\\college cringe\\programming\\lab5doublelinked\\lab6doublelinklists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8652EDED-0616-43C7-BCA2-C56A100C24E9}|Lab6DoubleLinkLists.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,41 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LinkedListStartingEmptyTests.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\LinkedListStartingEmptyTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\LinkedListStartingEmptyTests.cs",
+              "ToolTip": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\LinkedListStartingEmptyTests.cs",
+              "RelativeToolTip": "..\\TestProject\\LinkedListStartingEmptyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T23:28:28.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\Class1.cs",
               "RelativeDocumentMoniker": "..\\LinkedLists\\Class1.cs",
               "ToolTip": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\Class1.cs",
               "RelativeToolTip": "..\\LinkedLists\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T23:27:37.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T23:23:02.711Z",
               "EditorCaption": ""
             }
           ]

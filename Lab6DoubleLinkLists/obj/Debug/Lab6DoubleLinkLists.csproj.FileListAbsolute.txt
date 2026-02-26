@@ -1,0 +1,7 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\bin\Debug\Lab6DoubleLinkLists.exe.config
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\bin\Debug\Lab6DoubleLinkLists.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\bin\Debug\Lab6DoubleLinkLists.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\obj\Debug\Lab6DoubleLinkLists.csproj.AssemblyReference.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\obj\Debug\Lab6DoubleLinkLists.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\obj\Debug\Lab6DoubleLinkLists.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\Lab6DoubleLinkLists\obj\Debug\Lab6DoubleLinkLists.pdb

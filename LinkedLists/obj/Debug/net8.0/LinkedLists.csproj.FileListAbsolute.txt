@@ -1,0 +1,12 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\bin\Debug\net8.0\LinkedLists.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\bin\Debug\net8.0\LinkedLists.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\bin\Debug\net8.0\LinkedLists.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.sourcelink.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\refint\LinkedLists.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\LinkedLists.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\Lab5DoubleLinked\LinkedLists\obj\Debug\net8.0\ref\LinkedLists.dll
