@@ -113,7 +113,22 @@
 
         public void ReverseList()
         {
-            throw new NotImplementedException();
+            if (Length < 2)
+            {
+                return;
+            }
+
+            DNode<T> node = _head;
+            DNode<T> temp;
+
+            do
+            {
+                temp = node.Next;
+                node.Next = node.Previous;
+                node.Previous = temp;
+                node = temp;
+            }
+            while (temp != node);
         }
     }
 }

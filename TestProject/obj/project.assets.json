@@ -386,6 +386,16 @@
         "runtime": {
           "bin/placeholder/Lab6DoubleLinkLists.dll": {}
         }
+      },
+      "LinkedLists/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LinkedLists.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedLists.dll": {}
+        }
       }
     }
   },
@@ -984,11 +994,17 @@
       "type": "project",
       "path": "../Lab6DoubleLinkLists/Lab6DoubleLinkLists.csproj",
       "msbuildProject": "../Lab6DoubleLinkLists/Lab6DoubleLinkLists.csproj"
+    },
+    "LinkedLists/1.0.0": {
+      "type": "project",
+      "path": "../LinkedLists/LinkedLists.csproj",
+      "msbuildProject": "../LinkedLists/LinkedLists.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Lab6DoubleLinkLists >= 1.0.0",
+      "LinkedLists >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -997,23 +1013,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alex\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\TestProject\\obj\\",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\TestProject\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1028,8 +1044,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj": {
-              "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj"
+            "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\Lab6DoubleLinkLists\\Lab6DoubleLinkLists.csproj"
+            },
+            "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj"
             }
           }
         }
@@ -1087,7 +1106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,7 @@
       "TestProject/1.0.0": {
         "dependencies": {
           "Lab6DoubleLinkLists": "1.0.0",
+          "LinkedLists": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NUnit": "3.14.0",
           "NUnit.Analyzers": "3.9.0",
@@ -324,6 +325,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "LinkedLists/1.0.0": {
+        "runtime": {
+          "LinkedLists.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -425,6 +434,11 @@
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
     "Lab6DoubleLinkLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedLists/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

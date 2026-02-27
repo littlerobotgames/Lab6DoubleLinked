@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\LinkedLists.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\LinkedLists.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\LinkedLists.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj",
         "projectName": "LinkedLists",
-        "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\LinkedLists.csproj",
-        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\Lab5DoubleLinked\\LinkedLists\\obj\\",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\LinkedLists.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\ProgrammingFundamentalsSnow2025\\Lab6DoubleLinked\\LinkedLists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
